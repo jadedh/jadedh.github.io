@@ -1,0 +1,11 @@
+[
+  
+    {
+      "title"    : "My Post",
+      "category" : "",
+      "tags"     : "sample post",
+      "url"      : "http://localhost:4000/intro/my-post/",
+      "date"     : "2017-12-04 00:00:00 -0500"
+    } 
+  
+]
