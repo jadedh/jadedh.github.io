@@ -1,8 +1,8 @@
 ---
 layout: post
-title: My Post
-description: "First entry"
-modified: 2017-12-04
+title: MSP-432 Tamagotchi Virtual Pet
+description: "MSP-432 Tamagotchi Virtual Pet"
+modified: 2017-12-21
 tags: [sample post]
 categories: [intro]
 ---
