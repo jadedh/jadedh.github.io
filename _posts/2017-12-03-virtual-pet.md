@@ -11,12 +11,12 @@ categories: [intro]
 
 <figure>
 	<a ><img src="/images/msp1.jpg" alt=""></a>
-	<figcaption><a title="December, 2017">April, 2017</a>.</figcaption>
+	<figcaption><a title="May, 2017">April, 2017</a>.</figcaption>
 </figure>
 
 <figure>
 	<a ><img src="/images/msp2.jpg" alt=""></a>
-	<figcaption><a title="December, 2017">April, 2017</a>.</figcaption>
+	<figcaption><a title="May, 2017">April, 2017</a>.</figcaption>
 </figure>
 
 The goal of the project is to implement a virtual pet, tamagotchi, which must be taken care of by the users so it maintain all the basic animal needs for instance hunger, happiness etc.
