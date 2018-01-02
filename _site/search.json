@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "BU commencement countdown!",
+      "category" : "",
+      "tags"     : "sample post",
+      "url"      : "http://localhost:4000/intro/new-year/",
+      "date"     : "2018-01-02 00:00:00 -0500"
+    } ,
+  
+    {
       "title"    : "My Post",
       "category" : "",
       "tags"     : "sample post",
